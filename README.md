@@ -60,6 +60,7 @@ _이텔릭_
 ![HEROPY](https://heropy.blog/css/images/logo.png)
 
 [![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)  
+[![대체텍스트](이미지url)](이동할 url)
 해당이미지를 누르면 밑의 블로그로 이동할 수 있는 형태
 
 # 인용문(BlockQuote)
